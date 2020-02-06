@@ -20,8 +20,4 @@ protobuf==3.6.1
 pyparsing==2.1.10
 six==1.11.0
 tensorflow==2.0.0a0
-<<<<<<< HEAD
 Werkzeug== 0.15.3
-=======
-Werkzeug==0.15.3
->>>>>>> 4527ccf668b9097580005c646fd0cd723326be36
